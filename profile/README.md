@@ -2,9 +2,6 @@
 
 Welcome to the official GitHub organization for **SoundFood** — where innovation meets high-end dining.
 
-🔗 *Website:* [soundfood.it](https://soundfood.it)
-🔗 *LinkedIn:* [SoundFood Phygital](https://www.linkedin.com/company/soundfoodphygital)
-
 ---
 
 ## 🌟 Who We Are
