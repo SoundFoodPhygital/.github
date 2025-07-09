@@ -2,13 +2,9 @@
 
 Welcome to the official GitHub organization for **SoundFood** — where innovation meets high-end dining.
 
----
-
 ## 🌟 Who We Are
 
 SoundFood is a forward-thinking company that blends **cutting-edge generative AI** with **cross-modal perception science** to create fully immersive sensory experiences in fine-dining environments. Our patented “phygital” music sommelier technology allows every table to enjoy a bespoke audio bubble that perfectly complements the flavors of each dish.
-
----
 
 ## 📁 What We Do on GitHub
 
@@ -17,8 +13,6 @@ This organization hosts the full suite of SoundFood’s software initiatives, in
 * **Open‑source projects** powering our AI-driven audio pairing algorithms
 * **Internal services** for deployment, orchestration, and analytics
 * **Research prototypes** exploring sensor-driven cross‑modal perception models
-
----
 
 ## 🧠 Core Technologies
 
@@ -29,13 +23,6 @@ This organization hosts the full suite of SoundFood’s software initiatives, in
 | **Edge & Cloud**           | Scalable systems operating on-premise devices in restaurants and in the cloud              |
 | **Phygital Interfaces**    | Portable devices enabling localized audio bubbles per table                                |
 
-## 📋 Getting Started
-
-1. **Explore our repos**: Each project includes a README with setup instructions.
-2. **Contribute**: Feel free to file issues, propose enhancements, or fork and send pull requests.
-
----
-
 ## 🎯 Why SoundFood Matters
 
 We bring scientific rigor and **cutting-edge tech** to elevate restaurant experiences:
@@ -43,8 +30,6 @@ We bring scientific rigor and **cutting-edge tech** to elevate restaurant experi
 * Creating **immersive “sound bubbles”** tailored to each table and dish
 * Collaborating with international research centers to fuse **neuroscience and culinary art**
 * Awarded top honors in the Lazio Innova “Boost Your Ideas” program
-
----
 
 ## 🤝 Connect With Us
 
