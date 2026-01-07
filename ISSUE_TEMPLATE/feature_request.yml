@@ -1,0 +1,44 @@
+name: ✨ Feature Request
+description: Suggest a new feature or improvement for SoundFood
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        SoundFood is a startup focused on revolutionizing the dining experience through technology.
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation / use case
+      description: Why is this feature useful? What problem does it solve?
+      placeholder: Describe the real-world use case.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution (optional)
+      description: If you have an idea for the implementation or API, describe it here.
+      placeholder: |
+        Example API or pseudocode...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: Are you willing to help implement this feature?
+      options:
+        - label: I am willing to contribute to this feature
+          required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        📖 Please check:
+        - [Contributing Guidelines](https://github.com/SoundFoodPhygital/.github/blob/master/CONTRIBUTING.md)

@@ -1,0 +1,29 @@
+name: 📚 Documentation Issue
+description: Report missing, unclear, or incorrect documentation
+title: "[Docs]: "
+labels: ["documentation"]
+assignees: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Documentation issue
+      description: Describe what is missing, unclear, or incorrect.
+      placeholder: Which page or section is problematic?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+      description: How should the documentation be improved?
+      placeholder: Proposed text, examples, or links.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        📖 References:
+        - [Contributing Guidelines](https://github.com/SoundFoodPhygital/.github/blob/master/CONTRIBUTING.md)
