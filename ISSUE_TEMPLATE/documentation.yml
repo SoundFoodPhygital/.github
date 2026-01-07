@@ -2,7 +2,6 @@ name: 📚 Documentation Issue
 description: Report missing, unclear, or incorrect documentation
 title: "[Docs]: "
 labels: ["documentation"]
-assignees: []
 body:
   - type: textarea
     id: problem
@@ -12,7 +11,6 @@ body:
       placeholder: Which page or section is problematic?
     validations:
       required: true
-
   - type: textarea
     id: suggestion
     attributes:
@@ -21,9 +19,3 @@ body:
       placeholder: Proposed text, examples, or links.
     validations:
       required: false
-
-  - type: markdown
-    attributes:
-      value: |
-        📖 References:
-        - [Contributing Guidelines](https://github.com/SoundFoodPhygital/.github/blob/master/CONTRIBUTING.md)
